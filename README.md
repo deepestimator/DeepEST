@@ -1,5 +1,3 @@
-Operation is the hardest teacher: estimating DNN accuracy looking for mispredictions
-
 This repository is a companion page for a research paper submitted to the 43rd International Conference on Software Engineering (ICSE'21), "Operation is the hardest teacher: estimating DNN accuracy looking for mispredictions", which presents DeepEST: Deep  neural networks Enhanced Sampler for operational Testing" . It contains all the material required for replicating our experiments, including: the implementation of the algorithms and the input datasets. 
 
 To reproduce the results obtained by DeepEST, use the "run.sh" script (results of RQ1). The "runSensitivity.sh" allows running the experiments under different sample size (results of RQ1). To replicate the experiments on different subjects, just modify the "run.sh" script. 
